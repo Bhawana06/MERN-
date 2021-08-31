@@ -1,0 +1,6 @@
+{ 
+    "mongoURI":"mongodb+srv://Bay1212:Bay1212@devconnector.ncb9a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId": "15d6c2e31d7e87d0132d",
+     "githubSecret":"0e8eaeea3d6752233937d1ba9407344abfd2da4"
+}
